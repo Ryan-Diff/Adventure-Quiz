@@ -7,5 +7,5 @@ export function makeUser(formData) {
         completed: {},
     };
 
-    console.log(user);
+   
 }
