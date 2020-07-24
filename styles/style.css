@@ -125,3 +125,13 @@ footer {
   .hidden {
       display: none;
   }
+
+  img {
+      display: flex;
+      display: inline-block;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      height: 32px;
+      width: 32px;
+  }
